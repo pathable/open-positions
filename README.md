@@ -6,7 +6,7 @@ Our company is successful, self-funded, profitable, twenty people strong, and gr
 
 ## About Us
 
-Pathable (http://pathable.com) is the leading provider of mobile event apps and online community platforms for conferences, tradeshows, events, and associations. 
+Pathable (https://pathable.com/) is the leading provider of mobile event apps and online community platforms for conferences, tradeshows, events, and associations. 
 
 From 10,000 doctors at a convention center to 200 community organizers meeting for a weekend, our software improves the entire experience of attending in-person conferences and events. Though we develop products delivered over the Internet, as a nearly 10 year-old profitable company, we're not quite a startup anymore. 
 
@@ -16,19 +16,22 @@ From the beginning, our culture has supported and embraced remote workers. We do
 
 We're building features in our recently finished new version, it was built from the ground up, using the latest tools available at the time, integrated everything we've learned from nearly 10 years of product development to the same market.
 
-## Developement
+## About our Development area
 
-We have a single product in the end that is composed today from five different Meteor applications.
+We have a single product composed of five different Meteor applications including a Mobile Native app.
 
-You'll use your knowledge of Meteor, MongoDB, React and related technology to develop our second generation Meteor based web and mobile application. 
+We use Meteor, MongoDB, React and related technology to develop our second generation Meteor based web and mobile application. 
 
-You'll deploy code weekly, sometimes daily, to our Galaxy clusters. 
+We deploy code weekly, sometimes daily, to our Galaxy clusters. 
 
-In addition to clear and frequent written communication, you'll video conference daily with team members to design and refine new features for the product, marketing websites, email campaigns and more. 
+In addition to clear and frequent written communication, we have daily video conferences to design and refine new features for the product. 
 
-You enjoy vigorously defending what you know to be right as much as you enjoy being wrong when the best answer wins. 
+## About you
+You love to learn and be updated with new technologies, always trying to find better and faster ways to delivery features with great quality.
 
-You're loath to have your co-workers discover bugs you've missed. You thrive in a remote working environment where you define completely your own setup and interact with exclusively via computer; you go wherever you want.
+You thrive in a remote working environment where you define completely your own setup and interact with exclusively via computer; you go wherever you want. You communicate well with the team, the team always knows what you are working on without asking.
+
+You enjoy vigorously defending what you know to be right as much as you enjoy being wrong when the best answer wins. You're loath to have your co-workers discover bugs you've missed. 
 
 ## Open positions
 
