@@ -39,7 +39,7 @@ You enjoy vigorously defending what you know to be right as much as you enjoy be
 - Applications deadline: October 25th 2019
 - Annual income range: US$ 20,000.00 - US$ 30,000.00
 - How would be your first days in our team: write Cypress tests, execute manual tests, fix minor bugs, implement small features.
-- What you should expect for the next months: be able to work in any area of our codebase implementing whatever is next in our backlog include majors features and modules.
+- What you should expect for the next months: be able to work in any area of our codebase implementing whatever is next in our backlog including majors features and modules.
 
 ## How to Apply
 Submit your solution to our [code challenge](https://github.com/pathable/vnext-code-challenge/blob/master/README.md) and good luck.
